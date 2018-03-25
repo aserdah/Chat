@@ -1,6 +1,18 @@
 # Chat
 This is ios app for chating which view feinds on the map using thire loctions
 
+Chat app using the map to view your friends locations
+chat include the following skills
+•	UIKit / Cocoa Touch, Foundation.
+•	Local and online Validation. 
+•	Parse and RESTful backend APIs integration, JSON parsing.
+•	iCloudKit integration and usage.
+•	CoreData for local storage, working with multiple contexts.
+•	Alamofire and Torn networking library.
+•	Kingfisher image loading and caching library.
+•	AutoLayout and Size Classes.
+•	Apple Maps integration.
+•	CocoaPods to manage dependencies.
 
  
  <img src="https://raw.githubusercontent.com/aserdah/Chat/master/26055916_1735176176534723_1351625586510325611_n.jpg">
