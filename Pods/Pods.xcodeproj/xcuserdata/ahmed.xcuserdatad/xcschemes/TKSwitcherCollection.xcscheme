@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'DCEFD44841291CE2A67C410AEFAD20BC'
-               BlueprintName = 'TKSwitcherCollection'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'TKSwitcherCollection.framework'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCEFD44841291CE2A67C410AEFAD20BC"
+               BlueprintName = "TKSwitcherCollection"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "TKSwitcherCollection.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

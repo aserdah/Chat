@@ -16,25 +16,26 @@
 		0E12602BEF8A5519A8A924D3E627EF5D /* IntExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE8648ED4F22BAFDA37B9D145447BB8 /* IntExtensions.swift */; };
 		13FC128B4DD17CD90F02593EAAAE9A67 /* M13CheckboxStrokeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28948C89713E35F30263524065806115 /* M13CheckboxStrokeController.swift */; };
 		150E2DD39E9B9AC2B3E1B2AC5DFADA15 /* FoundationDeprecated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76359153D93C0BE4C0A57D64572ECC99 /* FoundationDeprecated.swift */; };
-		183F3E45381030F3C43E1398361387D3 /* M13Checkbox-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 080BEA35C76C73DA5C77BC826271F07F /* M13Checkbox-dummy.m */; };
+		183F3E45381030F3C43E1398361387D3 /* M13Checkbox-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C67580EEF540C5C076E291C53F1EA23 /* M13Checkbox-dummy.m */; };
 		1864E3772ABAC01B9724244C3A3C4350 /* DoubleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB88F608B67806D8163A391666302C7D /* DoubleExtensions.swift */; };
 		1B9B0BD38F76F5FFF9A2017E8F1ED8DB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
 		1EB79404C783C6997ADCC1DD5EC40BC2 /* M13CheckboxExpandController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401F803A5BA1E7A50D814C706E80CF5 /* M13CheckboxExpandController.swift */; };
 		2110386154BC3992FB1D69D0DA2DAF0A /* M13CheckboxGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3DB67B2064F65BE54250836CF16121 /* M13CheckboxGestureRecognizer.swift */; };
-		23FD31B443254F42FA499272C5D291BF /* JTMaterialSwitch-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C250FF9F7BB60EDF933BD482158CA702 /* JTMaterialSwitch-dummy.m */; };
+		23FD31B443254F42FA499272C5D291BF /* JTMaterialSwitch-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D95D41FA0C85B9CF4FC8D2BBDD39C01C /* JTMaterialSwitch-dummy.m */; };
 		24035E45A7F2D4E5E7E5FE3B7229A2EE /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69316B4B6DBEB35DB2556CB08442F1B /* UIImageExtensions.swift */; };
 		2646E411EEC05299CC275ADE2CB34E9B /* UIBarButtonItemExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081F86495C8EF3E13715899ECF20445E /* UIBarButtonItemExtensions.swift */; };
-		2E65816AAB5A9010FB742E7E1BD3A9BB /* SwifterSwift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 474BF759080D2496DFD5DC7AFC60CB0A /* SwifterSwift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2E65816AAB5A9010FB742E7E1BD3A9BB /* SwifterSwift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DAB07A1F5D4873A850F742C4D1ECDD7 /* SwifterSwift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E903E65241641AFF0E46CBC57B26015 /* M13CheckboxFadeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B579DDC5476D2C2C854EFB34CAAB20AD /* M13CheckboxFadeController.swift */; };
 		2ED0848CE0F283890CA1453938793D48 /* CollectionExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9B0CF7D6CA0DED0A8CDE4E80D5E8025 /* CollectionExtensions.swift */; };
 		32CD57ADFFD1A2D4F94841BC6D2E592B /* OptionalExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0CBE4BC21E2F7F2F334D635BDBE3C9B /* OptionalExtensions.swift */; };
 		38E0E3F4EB10209596ABB27930257FA8 /* CharacterExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7DC3246D95214BD9668ABC915E7F8E /* CharacterExtensions.swift */; };
-		3C3E519C1C265A7653995BE1A6378280 /* SwifterSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 69D81BB0FBCE826E81128211C99D290B /* SwifterSwift-dummy.m */; };
+		3C3E519C1C265A7653995BE1A6378280 /* SwifterSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D442C11501AAD67504AC670B1E2F3DC1 /* SwifterSwift-dummy.m */; };
 		3C6C7F84D40191B8E8E5185973BD7FFD /* JTMaterialSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EA971972B2F49A15549F23179495974 /* JTMaterialSwitch.m */; };
 		43C87ECAA40B474FB0EA1B286809F163 /* UIImageViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F631322274870FA1B1B2641B074EAF9 /* UIImageViewExtensions.swift */; };
 		43F4E99EAA63AE26820DA24AF9AC7981 /* NSImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA04B02D3BAB0F7D7B2D67165A9C51A /* NSImageExtensions.swift */; };
 		451506F0402F43C158F14ABF7BA6B13E /* RAMItemAnimationProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD56F7672838BF5B3AAEEDA48B1994C /* RAMItemAnimationProtocol.swift */; };
 		45525A54045B78CD661950E12DDDC2B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
+		4B00659A0A5ADFD61FCDA9F38187123A /* JTMaterialSwitch.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E16519FF24DCC33883DB42B4D662E808 /* JTMaterialSwitch.bundle */; };
 		4B7C0C30C1ABABB9A673079ABDE889ED /* JTMaterialSwitch.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCE11134754D464965CAE1D9A8D9F59 /* JTMaterialSwitch.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		509ED1C4607AE544928AFFDD51FFCE3E /* UISegmentedControlExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA55EC9C14056A15410E1C41804338D9 /* UISegmentedControlExtensions.swift */; };
 		50D60DCB1027CA12151BAAF6F41841C9 /* TKLiquidSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE1B870E30825949FDAC3E3D2B4B04D /* TKLiquidSwitch.swift */; };
@@ -55,9 +56,9 @@
 		66CB3850C6EA56144A8734C7C5AF6C0B /* CLLocationExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58F4C7D1AE669E7804538BA19B5202B /* CLLocationExtensions.swift */; };
 		67EE5CD5C88C30918450084864130DB3 /* TKSmileSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = D173DFD195C9A64DE28FBB8CDE7329C4 /* TKSmileSwitch.swift */; };
 		68516967840261D7FFB3D6F42C6FDE4A /* UITableViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DCFD9BE4438BDE40511EFDC3DF0FDA /* UITableViewExtensions.swift */; };
-		6853FB4167701B2DF94D7CDFB38B8CAD /* M13Checkbox-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C472306431E65DF94193A245BB33098C /* M13Checkbox-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6853FB4167701B2DF94D7CDFB38B8CAD /* M13Checkbox-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E5AF501D8BBB624F3855AFD0E1B77D74 /* M13Checkbox-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6889455FFDC297CE8063621418F5E00D /* UIFontExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773CA4A3D3848DC6AD29378D1B0B9158 /* UIFontExtensions.swift */; };
-		6BCCA635F181D2D9DFC91D3137A03DB9 /* Pods-Chat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F0826FC088094C66E4487FF6DE7DF749 /* Pods-Chat-dummy.m */; };
+		6BCCA635F181D2D9DFC91D3137A03DB9 /* Pods-Chat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0B1DB9D55BBB24C284387F87450E7F /* Pods-Chat-dummy.m */; };
 		6BDA78DEE8C3AA684CFE18907F0276E1 /* RAMFrameItemAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934A10C111E379FF12E69922EC96FE9E /* RAMFrameItemAnimation.swift */; };
 		6C9E840C69C41ED1EDE529497CDEF6BE /* UserDefaultsExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D9F76D44992E7C4B1D279C20381FA4 /* UserDefaultsExtensions.swift */; };
 		73A3753C550F26AEE354F43D7AA98ACE /* M13CheckboxSpiralController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BD36BC5AD45B26BA3B540D1BE4CE19 /* M13CheckboxSpiralController.swift */; };
@@ -73,7 +74,7 @@
 		83D4B19A1925C18AFFE68C5F18C0BC40 /* TKBaseSwitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B7536F4FE611165D1B5013C1C3501B /* TKBaseSwitcher.swift */; };
 		8869A3833401F7236D5BB6E1FE04D1D1 /* DateExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A040BFB699C876BE6979E568F2150BD /* DateExtensions.swift */; };
 		8942922B30F9E19A21D2EB015F832D2F /* M13CheckboxPathGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F08442935F5F1296D0848F31A3BB7E57 /* M13CheckboxPathGenerator.swift */; };
-		8A28484E8BE8B3676C96080FB09DCAD6 /* Pods-Chat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D60BB0BE9494B3B8E82BD8F0093964 /* Pods-Chat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8A28484E8BE8B3676C96080FB09DCAD6 /* Pods-Chat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B291740C664BB03A7EED1894299662DD /* Pods-Chat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8BCE7756C6796695E488087481FD3B6B /* RAMBounceAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CDEFFCB165BF8BE6127465CB726378 /* RAMBounceAnimation.swift */; };
 		8C6EB311B0B897CD705D6F53BDDF0EFB /* M13CheckboxFlatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE57E3219E13E3FFEB09705A535F68E /* M13CheckboxFlatController.swift */; };
 		909BBF630AEB6AD449457A6F3A11967B /* UITextFieldExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1438C0FE5926A30E866A40B83FC6A /* UITextFieldExtensions.swift */; };
@@ -83,21 +84,20 @@
 		9E64FBA45FD0DC29E208265A7F6262E9 /* UIAlertControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCBCA860EA14721965E00D0B389BF3E /* UIAlertControllerExtensions.swift */; };
 		A523E8D1C5ECD49E830DE82638A5D607 /* ColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BB17EF183EA80122152C4FD969E502 /* ColorExtensions.swift */; };
 		AB839F535003BA79950BDC9A0B50D923 /* M13CheckboxDisclosurePathGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7ACC0C94B36B41CBF328DA513E2A812 /* M13CheckboxDisclosurePathGenerator.swift */; };
-		AD5A78837E16733DFD0C2ECD66B46F3D /* JTMaterialSwitch.bundle in Resources */ = {isa = PBXBuildFile; fileRef = DF2A1C7698B565EE9B515779D7BB44DB /* JTMaterialSwitch.bundle */; };
 		AE453DF701884856D80EB29C984352E2 /* CGColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240D38E973CDEBC74843D88ABC29C23E /* CGColorExtensions.swift */; };
 		B045432A25E3ED39E9B9FFB56962D1F7 /* BoolExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65684673174767F53A16407B620FC966 /* BoolExtensions.swift */; };
 		B45274CF1CCF3AD8084527EDAC0706A3 /* RAMTransitionItemAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC8BD73B20831E4AA90665070D76981A /* RAMTransitionItemAnimations.swift */; };
 		B5DE980791D4DBD13DF2F0A44893E255 /* M13CheckboxAnimationGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF94AFE594B6755ACEB39A5C9B65141 /* M13CheckboxAnimationGenerator.swift */; };
 		B7D8254786CE0AE3BF97982B7FAAD198 /* M13CheckboxCheckPathGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2F0E4FFD3BAB439432707C4C9A8386 /* M13CheckboxCheckPathGenerator.swift */; };
 		BC00A61DB3C41221F1E61AE6D781839F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
-		BC30DED80B5C24FA47C7C4224574F4F2 /* JTMaterialSwitch-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7C6B3F1658A105D8CCABCDBECA3F314 /* JTMaterialSwitch-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC30DED80B5C24FA47C7C4224574F4F2 /* JTMaterialSwitch-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1002106F7CDBB163100694B3D2CFBD12 /* JTMaterialSwitch-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BD78E8DDD27AF7518D2AE2456285730C /* M13CheckboxAddRemovePathGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576C603363C6B98F0327EA356A6BD340 /* M13CheckboxAddRemovePathGenerator.swift */; };
 		BF88391523556D36759C0D5D555D48D4 /* SignedNumericExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2E752F127F8241FDE2588163B61BDA /* SignedNumericExtensions.swift */; };
 		C13C8B4A719C9B897F48D87F1EC3D23B /* UIStoryboardExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989315143A20A96C974DFB886C90737 /* UIStoryboardExtensions.swift */; };
 		C19374FDC93658EB8BC435EA4686A163 /* UICollectionViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B735554762C75211DA07E723EBE784B4 /* UICollectionViewExtensions.swift */; };
 		C737979DEBA2DA9D4BB4A8D3013C0BBC /* URLRequestExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0DA440A2C84847DF8236835A632DFDD /* URLRequestExtensions.swift */; };
 		C88F144420533BCDEE60E418C316FB8E /* M13Checkbox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E7F82CDF885AB682B7A8D590E6243B /* M13Checkbox.swift */; };
-		C8C5D26BAB6BFF89E44086741357DC5C /* RAMAnimatedTabBarController-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B43C80ACF890BBC32F53F2D1CAD31EF3 /* RAMAnimatedTabBarController-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C8C5D26BAB6BFF89E44086741357DC5C /* RAMAnimatedTabBarController-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3601E8C11D68B745EF1556B5008D85DA /* RAMAnimatedTabBarController-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C99FA8F8FC51F8C9C4300FD6F085F1B0 /* DataExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D55FDA345A49118AA6C5B6B2979D78 /* DataExtensions.swift */; };
 		CB3F054A113E905AC1E2660F4AF3FCD9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
 		CB8C9C079153B36DEC709465B1BB2C96 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
@@ -109,13 +109,13 @@
 		D86248081587BE7F4864D23660A27EBD /* UINavigationControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1C8910B4F86550647BD5CAFDED6E47 /* UINavigationControllerExtensions.swift */; };
 		D940A932B8FC38D8E4BA87402F4C96CC /* UISwitchExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803E61D0B5EF431544D62F8F698B4B52 /* UISwitchExtensions.swift */; };
 		DCCBC6FB1BC1D41174296D365D27A9B9 /* DictionaryExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6155C8494D7F232E430980FCE460D3 /* DictionaryExtensions.swift */; };
-		E029F6E35051213BF805FAFEC970341C /* TKSwitcherCollection-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D2C447D8F3105F6F42CC55ADDC3634E /* TKSwitcherCollection-dummy.m */; };
+		E029F6E35051213BF805FAFEC970341C /* TKSwitcherCollection-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 160625792B7CA0CE4C35E6FFAB1B8518 /* TKSwitcherCollection-dummy.m */; };
 		E2917C44B502EB6B7F4C8E0F7A989085 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
 		E640F83CC0F2862FE67F42B23F006EFB /* UINavigationItemExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A565446B1D6742439F8C91CC42411 /* UINavigationItemExtensions.swift */; };
 		F6450C2D78AF436FC7F08F0E5BD2B45C /* CGSizeExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8AAF50A787439BA132220E6FC65005 /* CGSizeExtensions.swift */; };
 		F6B663319C97DEF45B3AC0F97120B677 /* UIViewControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD968AF2915C327DF2AEF79603B8472 /* UIViewControllerExtensions.swift */; };
-		F87BD9270662F406F72BBB0E8A5CF3C5 /* TKSwitcherCollection-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A387E16E61DDC960D5381A3D8B5A6E86 /* TKSwitcherCollection-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FD9856504A806F252A8B62C9202D56B9 /* RAMAnimatedTabBarController-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FF5D9AF1E5B91B8C55804847A7CB339E /* RAMAnimatedTabBarController-dummy.m */; };
+		F87BD9270662F406F72BBB0E8A5CF3C5 /* TKSwitcherCollection-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F448C5FF8991EC0E34601AEBDA96EB77 /* TKSwitcherCollection-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FD9856504A806F252A8B62C9202D56B9 /* RAMAnimatedTabBarController-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1FCAEA650E061AD4EFF3C66EA91F315 /* RAMAnimatedTabBarController-dummy.m */; };
 		FF4E2AB7D604B3D36AF26C8D7EECE416 /* DefaultValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7431DC8DAAF132F678A2E392D5086207 /* DefaultValues.swift */; };
 /* End PBXBuildFile section */
 
@@ -165,147 +165,147 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01D2829F039B5448119E45E65FFEF379 /* Pods_Chat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Chat.framework; path = "Pods-Chat.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		080BEA35C76C73DA5C77BC826271F07F /* M13Checkbox-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "M13Checkbox-dummy.m"; sourceTree = "<group>"; };
+		056805D90E0989ABF11F7D053AB70492 /* Pods-Chat-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Chat-frameworks.sh"; sourceTree = "<group>"; };
 		081F86495C8EF3E13715899ECF20445E /* UIBarButtonItemExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIBarButtonItemExtensions.swift; path = Sources/Extensions/UIKit/UIBarButtonItemExtensions.swift; sourceTree = "<group>"; };
 		0989315143A20A96C974DFB886C90737 /* UIStoryboardExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIStoryboardExtensions.swift; path = Sources/Extensions/UIKit/UIStoryboardExtensions.swift; sourceTree = "<group>"; };
 		09D55FDA345A49118AA6C5B6B2979D78 /* DataExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DataExtensions.swift; path = Sources/Extensions/Foundation/DataExtensions.swift; sourceTree = "<group>"; };
-		0BC319DB2A5A1C743591990FF97E4558 /* JTMaterialSwitch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JTMaterialSwitch.framework; path = JTMaterialSwitch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0FB6112C1E606A02AAF0A10142CAC277 /* SwifterSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwifterSwift.framework; path = SwifterSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1002106F7CDBB163100694B3D2CFBD12 /* JTMaterialSwitch-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JTMaterialSwitch-umbrella.h"; sourceTree = "<group>"; };
 		14D9F76D44992E7C4B1D279C20381FA4 /* UserDefaultsExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UserDefaultsExtensions.swift; path = Sources/Extensions/Foundation/UserDefaultsExtensions.swift; sourceTree = "<group>"; };
-		19BB9388E2D76CD73E834E1839237BA8 /* Pods-Chat-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Chat-acknowledgements.markdown"; sourceTree = "<group>"; };
+		15EC94D14A538389313CCCCADC1B3A2C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		160625792B7CA0CE4C35E6FFAB1B8518 /* TKSwitcherCollection-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TKSwitcherCollection-dummy.m"; sourceTree = "<group>"; };
+		189A3138BEB66C49B7C9FEEC566AA337 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C67580EEF540C5C076E291C53F1EA23 /* M13Checkbox-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "M13Checkbox-dummy.m"; sourceTree = "<group>"; };
+		1CD3394AF67DDCB9D79DEE8DE40627E7 /* Pods_Chat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Chat.framework; path = "Pods-Chat.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DAB07A1F5D4873A850F742C4D1ECDD7 /* SwifterSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwifterSwift-umbrella.h"; sourceTree = "<group>"; };
+		1DB22E87D8B675A6A82768651A2308A6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1EA94CBD0F4DA4C9FF8EB9DA895F4C73 /* M13CheckboxDotController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxDotController.swift; path = Sources/Managers/M13CheckboxDotController.swift; sourceTree = "<group>"; };
+		2284B8181F60DFFE31CCF91D5018EDC9 /* JTMaterialSwitch.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JTMaterialSwitch.modulemap; sourceTree = "<group>"; };
+		23BCBFF470819BD1FAD3FFA04EA97070 /* TKSwitcherCollection.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKSwitcherCollection.xcconfig; sourceTree = "<group>"; };
 		240D38E973CDEBC74843D88ABC29C23E /* CGColorExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGColorExtensions.swift; path = Sources/Extensions/CoreGraphics/CGColorExtensions.swift; sourceTree = "<group>"; };
-		27B2BB35E9C7693260CFC0570944BB54 /* M13Checkbox.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = M13Checkbox.xcconfig; sourceTree = "<group>"; };
 		28948C89713E35F30263524065806115 /* M13CheckboxStrokeController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxStrokeController.swift; path = Sources/Managers/M13CheckboxStrokeController.swift; sourceTree = "<group>"; };
 		29BEF967F3DD588C76FDC51B608D6FE1 /* TKExchangeSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKExchangeSwitch.swift; path = TKSwitcherCollection/TKExchangeSwitch.swift; sourceTree = "<group>"; };
-		2ACD9E818C7F4AB9492ED2DF1346AB3B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B9782695E8B26FE3D32FB1D7CD466FE /* M13CheckboxBounceController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxBounceController.swift; path = Sources/Managers/M13CheckboxBounceController.swift; sourceTree = "<group>"; };
 		2C4C39A4E9A7E62DDF94F4C8A8539838 /* UINavigationBarExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UINavigationBarExtensions.swift; path = Sources/Extensions/UIKit/UINavigationBarExtensions.swift; sourceTree = "<group>"; };
-		2D2C447D8F3105F6F42CC55ADDC3634E /* TKSwitcherCollection-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TKSwitcherCollection-dummy.m"; sourceTree = "<group>"; };
-		2EDE36F9E2D7908A2F01995007429074 /* RAMAnimatedTabBarController.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = RAMAnimatedTabBarController.modulemap; sourceTree = "<group>"; };
+		2E661A4B4C291CBAF795CAA5B79C1238 /* TKSwitcherCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TKSwitcherCollection.framework; path = TKSwitcherCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31DCF84F42D2DBA9846C39087F69844E /* M13CheckboxFillController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxFillController.swift; path = Sources/Managers/M13CheckboxFillController.swift; sourceTree = "<group>"; };
-		35B0940759A19B9DA6934DACBCBC2145 /* M13Checkbox.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = M13Checkbox.modulemap; sourceTree = "<group>"; };
-		36313FA0A323BB6755155B78378D76C8 /* Pods-Chat-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Chat-acknowledgements.plist"; sourceTree = "<group>"; };
+		346E444B27FB9B43A06B6116F591F895 /* RAMAnimatedTabBarController.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RAMAnimatedTabBarController.xcconfig; sourceTree = "<group>"; };
+		3601E8C11D68B745EF1556B5008D85DA /* RAMAnimatedTabBarController-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RAMAnimatedTabBarController-umbrella.h"; sourceTree = "<group>"; };
 		377F977494E643BA3EC835DBEBCBEFCE /* UIViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIViewExtensions.swift; path = Sources/Extensions/UIKit/UIViewExtensions.swift; sourceTree = "<group>"; };
 		398DAA6A0677B673CB8E357EB0B1B419 /* RAMBadge.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMBadge.swift; path = RAMAnimatedTabBarController/RAMBadge/RAMBadge.swift; sourceTree = "<group>"; };
 		3B1C8910B4F86550647BD5CAFDED6E47 /* UINavigationControllerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UINavigationControllerExtensions.swift; path = Sources/Extensions/UIKit/UINavigationControllerExtensions.swift; sourceTree = "<group>"; };
-		3BA8D9BFDDE7A4B4BEB408B3149D78E8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EB936C842636BC904D5270A7A9B3C9C /* UITabBarExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UITabBarExtensions.swift; path = Sources/Extensions/UIKit/UITabBarExtensions.swift; sourceTree = "<group>"; };
 		40DCFD9BE4438BDE40511EFDC3DF0FDA /* UITableViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UITableViewExtensions.swift; path = Sources/Extensions/UIKit/UITableViewExtensions.swift; sourceTree = "<group>"; };
 		43BB17EF183EA80122152C4FD969E502 /* ColorExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ColorExtensions.swift; path = Sources/Extensions/Shared/ColorExtensions.swift; sourceTree = "<group>"; };
 		4401F803A5BA1E7A50D814C706E80CF5 /* M13CheckboxExpandController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxExpandController.swift; path = Sources/Managers/M13CheckboxExpandController.swift; sourceTree = "<group>"; };
-		474BF759080D2496DFD5DC7AFC60CB0A /* SwifterSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwifterSwift-umbrella.h"; sourceTree = "<group>"; };
-		4A391CE8AC82FC2D8506307EFD77219D /* Pods-Chat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Chat.release.xcconfig"; sourceTree = "<group>"; };
+		489585382114F8D756A8FA9A5A94487D /* Pods-Chat.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Chat.modulemap"; sourceTree = "<group>"; };
 		4BA04B02D3BAB0F7D7B2D67165A9C51A /* NSImageExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSImageExtensions.swift; path = Sources/Extensions/AppKit/NSImageExtensions.swift; sourceTree = "<group>"; };
 		4BB96F0162CEAABB5AD1DEF11DB99973 /* NSAttributedStringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSAttributedStringExtensions.swift; path = Sources/Extensions/Foundation/NSAttributedStringExtensions.swift; sourceTree = "<group>"; };
 		4BCBCA860EA14721965E00D0B389BF3E /* UIAlertControllerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIAlertControllerExtensions.swift; path = Sources/Extensions/UIKit/UIAlertControllerExtensions.swift; sourceTree = "<group>"; };
 		4BE57E3219E13E3FFEB09705A535F68E /* M13CheckboxFlatController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxFlatController.swift; path = Sources/Managers/M13CheckboxFlatController.swift; sourceTree = "<group>"; };
 		4EA971972B2F49A15549F23179495974 /* JTMaterialSwitch.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JTMaterialSwitch.m; path = Pod/Classes/JTMaterialSwitch.m; sourceTree = "<group>"; };
 		4F3DB67B2064F65BE54250836CF16121 /* M13CheckboxGestureRecognizer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxGestureRecognizer.swift; path = Sources/M13CheckboxGestureRecognizer.swift; sourceTree = "<group>"; };
-		5313C2C0B143410BDBB392FB8496FAB9 /* ResourceBundle-JTMaterialSwitch-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-JTMaterialSwitch-Info.plist"; sourceTree = "<group>"; };
-		5429D4C264806AC229775F0557E96630 /* Pods-Chat.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-Chat.modulemap"; sourceTree = "<group>"; };
+		55FDFF5691CB1DE6B51795B1FD0303B4 /* SwifterSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwifterSwift.framework; path = SwifterSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		576C603363C6B98F0327EA356A6BD340 /* M13CheckboxAddRemovePathGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxAddRemovePathGenerator.swift; path = Sources/Paths/M13CheckboxAddRemovePathGenerator.swift; sourceTree = "<group>"; };
 		58656D092F8ABCDFD2D19CE51E391FE4 /* UIButtonExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIButtonExtensions.swift; path = Sources/Extensions/UIKit/UIButtonExtensions.swift; sourceTree = "<group>"; };
+		58CE981816E5CAFC819FC75901D0C8D5 /* Pods-Chat-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Chat-resources.sh"; sourceTree = "<group>"; };
 		5A040BFB699C876BE6979E568F2150BD /* DateExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DateExtensions.swift; path = Sources/Extensions/Foundation/DateExtensions.swift; sourceTree = "<group>"; };
 		5C86786432FE1103DE416A3AE81C1BEA /* UILabelExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UILabelExtensions.swift; path = Sources/Extensions/UIKit/UILabelExtensions.swift; sourceTree = "<group>"; };
 		5F631322274870FA1B1B2641B074EAF9 /* UIImageViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIImageViewExtensions.swift; path = Sources/Extensions/UIKit/UIImageViewExtensions.swift; sourceTree = "<group>"; };
-		62527E93B6F4FFC38AF962DF0F135F2E /* SwifterSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwifterSwift.modulemap; sourceTree = "<group>"; };
 		62CDEFFCB165BF8BE6127465CB726378 /* RAMBounceAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMBounceAnimation.swift; path = RAMAnimatedTabBarController/Animations/BounceAnimation/RAMBounceAnimation.swift; sourceTree = "<group>"; };
 		6477FC868F29523DCFA143E1B708FE30 /* URLExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLExtensions.swift; path = Sources/Extensions/Foundation/URLExtensions.swift; sourceTree = "<group>"; };
 		65684673174767F53A16407B620FC966 /* BoolExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BoolExtensions.swift; path = Sources/Extensions/SwiftStdlib/BoolExtensions.swift; sourceTree = "<group>"; };
-		69D81BB0FBCE826E81128211C99D290B /* SwifterSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwifterSwift-dummy.m"; sourceTree = "<group>"; };
+		6677F0E77DEE7545100CBB3871582D92 /* Pods-Chat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Chat.release.xcconfig"; sourceTree = "<group>"; };
+		68B6DE4EB0D3802819BE3A5E2057BAC8 /* RAMAnimatedTabBarController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RAMAnimatedTabBarController.framework; path = RAMAnimatedTabBarController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6ACD7C7EC01D4E6D1384F8E1E324F146 /* RAMAnimatedTabBarController-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RAMAnimatedTabBarController-prefix.pch"; sourceTree = "<group>"; };
+		6B5FE66F3FAC70E33272D71EDC95374A /* TKSwitcherCollection-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-prefix.pch"; sourceTree = "<group>"; };
 		6C7DC3246D95214BD9668ABC915E7F8E /* CharacterExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CharacterExtensions.swift; path = Sources/Extensions/SwiftStdlib/CharacterExtensions.swift; sourceTree = "<group>"; };
 		6CBC9C3CAFD3F5F1B4BA6EB5FD539F69 /* RAMFumeAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMFumeAnimation.swift; path = RAMAnimatedTabBarController/Animations/FumeAnimation/RAMFumeAnimation.swift; sourceTree = "<group>"; };
 		6EB59A7A11C5B593AFB33A63C800BCE0 /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = Sources/Extensions/SwiftStdlib/StringExtensions.swift; sourceTree = "<group>"; };
 		6F9D090F2C775C874DECDB7A78B8E368 /* FloatExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FloatExtensions.swift; path = Sources/Extensions/SwiftStdlib/FloatExtensions.swift; sourceTree = "<group>"; };
 		6FE8648ED4F22BAFDA37B9D145447BB8 /* IntExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IntExtensions.swift; path = Sources/Extensions/SwiftStdlib/IntExtensions.swift; sourceTree = "<group>"; };
 		71389D9CFAC8D5478C6D062F35F0AED4 /* CalendarExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CalendarExtensions.swift; path = Sources/Extensions/Foundation/CalendarExtensions.swift; sourceTree = "<group>"; };
+		717F4D2C04149900A40714686AB4A172 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7431DC8DAAF132F678A2E392D5086207 /* DefaultValues.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DefaultValues.swift; path = Sources/DefaultValues.swift; sourceTree = "<group>"; };
 		76359153D93C0BE4C0A57D64572ECC99 /* FoundationDeprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FoundationDeprecated.swift; path = Sources/Extensions/Foundation/Deprecated/FoundationDeprecated.swift; sourceTree = "<group>"; };
 		76E7F82CDF885AB682B7A8D590E6243B /* M13Checkbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13Checkbox.swift; path = Sources/M13Checkbox.swift; sourceTree = "<group>"; };
 		773CA4A3D3848DC6AD29378D1B0B9158 /* UIFontExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIFontExtensions.swift; path = Sources/Extensions/UIKit/UIFontExtensions.swift; sourceTree = "<group>"; };
+		78FAC3ED41DADAD3250B8B9E17BC3D6A /* Pods-Chat-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Chat-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7AE1B870E30825949FDAC3E3D2B4B04D /* TKLiquidSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKLiquidSwitch.swift; path = TKSwitcherCollection/TKLiquidSwitch.swift; sourceTree = "<group>"; };
-		7BA87E506D4C019EC5A109E82CACF0C1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7BD56F7672838BF5B3AAEEDA48B1994C /* RAMItemAnimationProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMItemAnimationProtocol.swift; path = RAMAnimatedTabBarController/RAMItemAnimationProtocol.swift; sourceTree = "<group>"; };
-		7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JTMaterialSwitch.xcconfig; sourceTree = "<group>"; };
 		7D2E752F127F8241FDE2588163B61BDA /* SignedNumericExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SignedNumericExtensions.swift; path = Sources/Extensions/SwiftStdlib/SignedNumericExtensions.swift; sourceTree = "<group>"; };
 		803E61D0B5EF431544D62F8F698B4B52 /* UISwitchExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UISwitchExtensions.swift; path = Sources/Extensions/UIKit/UISwitchExtensions.swift; sourceTree = "<group>"; };
+		81334DB67E561FE80C5747256508D10D /* M13Checkbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = M13Checkbox.framework; path = M13Checkbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BD36BC5AD45B26BA3B540D1BE4CE19 /* M13CheckboxSpiralController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxSpiralController.swift; path = Sources/Managers/M13CheckboxSpiralController.swift; sourceTree = "<group>"; };
 		84DA4B1432CFDA373EC6A860507A6F00 /* ArrayExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrayExtensions.swift; path = Sources/Extensions/SwiftStdlib/ArrayExtensions.swift; sourceTree = "<group>"; };
-		8CE18642285A6B0B403B21A459922688 /* SwifterSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwifterSwift-prefix.pch"; sourceTree = "<group>"; };
+		85B6A1E12A46F641AD5A16C7E3EE36CE /* TKSwitcherCollection.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TKSwitcherCollection.modulemap; sourceTree = "<group>"; };
+		8954D8842807AF75AF35D7F4EF8F754B /* M13Checkbox.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = M13Checkbox.modulemap; sourceTree = "<group>"; };
+		8C2B36D6594724109745958B77980D0D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DF1438C0FE5926A30E866A40B83FC6A /* UITextFieldExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UITextFieldExtensions.swift; path = Sources/Extensions/UIKit/UITextFieldExtensions.swift; sourceTree = "<group>"; };
-		8F3E898D3B8759617E07D48EFA6C0989 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F84DE75528B813A4A8A8D04EF4C9204 /* JTMaterialSwitch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JTMaterialSwitch.framework; path = JTMaterialSwitch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		934A10C111E379FF12E69922EC96FE9E /* RAMFrameItemAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMFrameItemAnimation.swift; path = RAMAnimatedTabBarController/Animations/FrameAnimation/RAMFrameItemAnimation.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96AE40D7973F87F5F8015D8A57630C61 /* SwiftStdlibDeprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftStdlibDeprecated.swift; path = Sources/Extensions/SwiftStdlib/Deprecated/SwiftStdlibDeprecated.swift; sourceTree = "<group>"; };
-		9914B9B7D2CB8ED67E5551508F1631CF /* SwifterSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwifterSwift.xcconfig; sourceTree = "<group>"; };
 		99C06B1B209CA23EC16EBF65CF890313 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		9B7B1AA21460582D20737F70317C424A /* M13Checkbox-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "M13Checkbox-prefix.pch"; sourceTree = "<group>"; };
 		A05B3BB1B78C6B10EC3298B8A9786EFA /* TKSimpleSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKSimpleSwitch.swift; path = TKSwitcherCollection/TKSimpleSwitch.swift; sourceTree = "<group>"; };
-		A387E16E61DDC960D5381A3D8B5A6E86 /* TKSwitcherCollection-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-umbrella.h"; sourceTree = "<group>"; };
 		A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		A58F4C7D1AE669E7804538BA19B5202B /* CLLocationExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CLLocationExtensions.swift; path = Sources/Extensions/CoreLocation/CLLocationExtensions.swift; sourceTree = "<group>"; };
 		A7ACC0C94B36B41CBF328DA513E2A812 /* M13CheckboxDisclosurePathGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxDisclosurePathGenerator.swift; path = Sources/Paths/M13CheckboxDisclosurePathGenerator.swift; sourceTree = "<group>"; };
+		A7E982F33F7A98682F9B128DE74D1924 /* RAMAnimatedTabBarController.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RAMAnimatedTabBarController.modulemap; sourceTree = "<group>"; };
 		AB7FB0CDE47F85D9DCA621F702DB5E10 /* CGFloatExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGFloatExtensions.swift; path = Sources/Extensions/CoreGraphics/CGFloatExtensions.swift; sourceTree = "<group>"; };
 		AC2B682A8C8D43516AEDB497DC5626E3 /* RAMRotationAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMRotationAnimation.swift; path = RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift; sourceTree = "<group>"; };
 		AE5BBB2A4543525792FD6B84D3232520 /* CGPointExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGPointExtensions.swift; path = Sources/Extensions/CoreGraphics/CGPointExtensions.swift; sourceTree = "<group>"; };
 		AEF94AFE594B6755ACEB39A5C9B65141 /* M13CheckboxAnimationGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxAnimationGenerator.swift; path = Sources/M13CheckboxAnimationGenerator.swift; sourceTree = "<group>"; };
-		AFFDD6F2EFE18965BF35EB9113522C81 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFC85CC77E7234BFA0A8389A624209BB /* SwifterSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwifterSwift.modulemap; sourceTree = "<group>"; };
+		B0521B331A9E2B9EBB86C5B445B1F8A0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B09ABEE0DF6404C5C78B18392296C48F /* JTMaterialSwitch-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JTMaterialSwitch-prefix.pch"; sourceTree = "<group>"; };
 		B0DA440A2C84847DF8236835A632DFDD /* URLRequestExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLRequestExtensions.swift; path = Sources/Extensions/Foundation/URLRequestExtensions.swift; sourceTree = "<group>"; };
-		B43C80ACF890BBC32F53F2D1CAD31EF3 /* RAMAnimatedTabBarController-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RAMAnimatedTabBarController-umbrella.h"; sourceTree = "<group>"; };
+		B1FCAEA650E061AD4EFF3C66EA91F315 /* RAMAnimatedTabBarController-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RAMAnimatedTabBarController-dummy.m"; sourceTree = "<group>"; };
+		B291740C664BB03A7EED1894299662DD /* Pods-Chat-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Chat-umbrella.h"; sourceTree = "<group>"; };
+		B2B38BA26724AB04F93150177DFCA9FD /* M13Checkbox-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "M13Checkbox-prefix.pch"; sourceTree = "<group>"; };
 		B579DDC5476D2C2C854EFB34CAAB20AD /* M13CheckboxFadeController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxFadeController.swift; path = Sources/Managers/M13CheckboxFadeController.swift; sourceTree = "<group>"; };
 		B735554762C75211DA07E723EBE784B4 /* UICollectionViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UICollectionViewExtensions.swift; path = Sources/Extensions/UIKit/UICollectionViewExtensions.swift; sourceTree = "<group>"; };
-		B7499831DD9E4D80F47CB01383313364 /* M13Checkbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = M13Checkbox.framework; path = M13Checkbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B887786A06B728A0061582E3592F9E97 /* JTMaterialSwitch-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JTMaterialSwitch-prefix.pch"; sourceTree = "<group>"; };
 		BB99ABEFD813FC043358B49844BBA500 /* NSViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSViewExtensions.swift; path = Sources/Extensions/AppKit/NSViewExtensions.swift; sourceTree = "<group>"; };
+		BBB5E058E9F0DC23155CD2AD4C496326 /* ResourceBundle-JTMaterialSwitch-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-JTMaterialSwitch-Info.plist"; sourceTree = "<group>"; };
 		BBD968AF2915C327DF2AEF79603B8472 /* UIViewControllerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIViewControllerExtensions.swift; path = Sources/Extensions/UIKit/UIViewControllerExtensions.swift; sourceTree = "<group>"; };
 		BD81634716C5C6586341CE0C3A1B0021 /* M13Checkbox+IB.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "M13Checkbox+IB.swift"; path = "Sources/M13Checkbox+IB.swift"; sourceTree = "<group>"; };
-		BFD8094A44C065DE83A041A26C903786 /* TKSwitcherCollection-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-prefix.pch"; sourceTree = "<group>"; };
 		BFFE7D6817750B38A63A48FBC50F5B38 /* M13CheckboxController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxController.swift; path = Sources/M13CheckboxController.swift; sourceTree = "<group>"; };
-		C08CBDBA11954A4DB020E6D2D4769584 /* TKSwitcherCollection.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = TKSwitcherCollection.modulemap; sourceTree = "<group>"; };
 		C0B7536F4FE611165D1B5013C1C3501B /* TKBaseSwitcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKBaseSwitcher.swift; path = TKSwitcherCollection/TKBaseSwitcher.swift; sourceTree = "<group>"; };
-		C250FF9F7BB60EDF933BD482158CA702 /* JTMaterialSwitch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JTMaterialSwitch-dummy.m"; sourceTree = "<group>"; };
-		C472306431E65DF94193A245BB33098C /* M13Checkbox-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "M13Checkbox-umbrella.h"; sourceTree = "<group>"; };
+		C2D86F3F22FDA5689767FF380004B196 /* M13Checkbox.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = M13Checkbox.xcconfig; sourceTree = "<group>"; };
+		C4DB40DF84C66E225C61348F7DB84D28 /* Pods-Chat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Chat.debug.xcconfig"; sourceTree = "<group>"; };
+		C6206DBDD0BC1E2550C1D3D6D48F97C5 /* SwifterSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwifterSwift-prefix.pch"; sourceTree = "<group>"; };
 		C6F5659BD74FBCA9C6829E12FF573B84 /* RAMAnimatedTabBarController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMAnimatedTabBarController.swift; path = RAMAnimatedTabBarController/RAMAnimatedTabBarController.swift; sourceTree = "<group>"; };
-		C75A14792F2076CE93AC78008E4BE8ED /* Pods-Chat-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Chat-frameworks.sh"; sourceTree = "<group>"; };
 		C84F6CB10966AD198BE3CAD0F6359624 /* SignedIntegerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SignedIntegerExtensions.swift; path = Sources/Extensions/SwiftStdlib/SignedIntegerExtensions.swift; sourceTree = "<group>"; };
 		CDCE11134754D464965CAE1D9A8D9F59 /* JTMaterialSwitch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JTMaterialSwitch.h; path = Pod/Classes/JTMaterialSwitch.h; sourceTree = "<group>"; };
 		CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CF45FAA174CD745D2E552CA9F6BE24E2 /* NSPredicateExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSPredicateExtensions.swift; path = Sources/Extensions/Foundation/NSPredicateExtensions.swift; sourceTree = "<group>"; };
-		CF967712E0AF3886BF5B44AD9BFD1AEA /* Pods-Chat-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Chat-resources.sh"; sourceTree = "<group>"; };
 		D0B009964922BEAAFBC1ABD265071446 /* UISearchBarExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UISearchBarExtensions.swift; path = Sources/Extensions/UIKit/UISearchBarExtensions.swift; sourceTree = "<group>"; };
 		D173DFD195C9A64DE28FBB8CDE7329C4 /* TKSmileSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TKSmileSwitch.swift; path = TKSwitcherCollection/TKSmileSwitch.swift; sourceTree = "<group>"; };
 		D20AD8E66B22001E431C6D3668CA646D /* UISliderExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UISliderExtensions.swift; path = Sources/Extensions/UIKit/UISliderExtensions.swift; sourceTree = "<group>"; };
 		D2707929D856F2F13F88F9AD6FFB2805 /* LocaleExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocaleExtensions.swift; path = Sources/Extensions/Foundation/LocaleExtensions.swift; sourceTree = "<group>"; };
+		D442C11501AAD67504AC670B1E2F3DC1 /* SwifterSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwifterSwift-dummy.m"; sourceTree = "<group>"; };
 		D69316B4B6DBEB35DB2556CB08442F1B /* UIImageExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIImageExtensions.swift; path = Sources/Extensions/UIKit/UIImageExtensions.swift; sourceTree = "<group>"; };
 		D73A3315BA9CA96E48FC8EEFA07C7F2D /* FloatingPointExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FloatingPointExtensions.swift; path = Sources/Extensions/SwiftStdlib/FloatingPointExtensions.swift; sourceTree = "<group>"; };
-		D7C6B3F1658A105D8CCABCDBECA3F314 /* JTMaterialSwitch-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JTMaterialSwitch-umbrella.h"; sourceTree = "<group>"; };
+		D95D41FA0C85B9CF4FC8D2BBDD39C01C /* JTMaterialSwitch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JTMaterialSwitch-dummy.m"; sourceTree = "<group>"; };
 		DA55EC9C14056A15410E1C41804338D9 /* UISegmentedControlExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UISegmentedControlExtensions.swift; path = Sources/Extensions/UIKit/UISegmentedControlExtensions.swift; sourceTree = "<group>"; };
 		DB8AAF50A787439BA132220E6FC65005 /* CGSizeExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGSizeExtensions.swift; path = Sources/Extensions/CoreGraphics/CGSizeExtensions.swift; sourceTree = "<group>"; };
-		DD8AD8C47F5ED93291540399B78C3F14 /* RAMAnimatedTabBarController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RAMAnimatedTabBarController.framework; path = RAMAnimatedTabBarController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD9A565446B1D6742439F8C91CC42411 /* UINavigationItemExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UINavigationItemExtensions.swift; path = Sources/Extensions/UIKit/UINavigationItemExtensions.swift; sourceTree = "<group>"; };
 		DE6155C8494D7F232E430980FCE460D3 /* DictionaryExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DictionaryExtensions.swift; path = Sources/Extensions/SwiftStdlib/DictionaryExtensions.swift; sourceTree = "<group>"; };
-		DEEA54B5FCD1E8046D1D652E2DC6A842 /* TKSwitcherCollection.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKSwitcherCollection.xcconfig; sourceTree = "<group>"; };
-		DF2A1C7698B565EE9B515779D7BB44DB /* JTMaterialSwitch.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = JTMaterialSwitch.bundle; path = JTMaterialSwitch.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		DF42B44711017413D3F1C0778E3F995A /* TKSwitcherCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TKSwitcherCollection.framework; path = TKSwitcherCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0CBE4BC21E2F7F2F334D635BDBE3C9B /* OptionalExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OptionalExtensions.swift; path = Sources/Extensions/SwiftStdlib/OptionalExtensions.swift; sourceTree = "<group>"; };
+		E16519FF24DCC33883DB42B4D662E808 /* JTMaterialSwitch.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = JTMaterialSwitch.bundle; path = "JTMaterialSwitch-JTMaterialSwitch.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2167DF6838F3A2FF130127A5452E4B9 /* UITextViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UITextViewExtensions.swift; path = Sources/Extensions/UIKit/UITextViewExtensions.swift; sourceTree = "<group>"; };
 		E2ACF9CB8A3A3D3FE49DAC64826D539A /* M13CheckboxRadioPathGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxRadioPathGenerator.swift; path = Sources/Paths/M13CheckboxRadioPathGenerator.swift; sourceTree = "<group>"; };
-		E5D60BB0BE9494B3B8E82BD8F0093964 /* Pods-Chat-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Chat-umbrella.h"; sourceTree = "<group>"; };
+		E5AF501D8BBB624F3855AFD0E1B77D74 /* M13Checkbox-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "M13Checkbox-umbrella.h"; sourceTree = "<group>"; };
 		E9B0CF7D6CA0DED0A8CDE4E80D5E8025 /* CollectionExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CollectionExtensions.swift; path = Sources/Extensions/SwiftStdlib/CollectionExtensions.swift; sourceTree = "<group>"; };
 		E9DE0D6204F44528DF9F6489C593AF34 /* SwifterSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwifterSwift.swift; path = Sources/Extensions/SwifterSwift.swift; sourceTree = "<group>"; };
-		EAE78040AF0F192F6DAF904774B3FA90 /* JTMaterialSwitch.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = JTMaterialSwitch.modulemap; sourceTree = "<group>"; };
+		EBFD2C3585477A2D643B9460891FC8BE /* Pods-Chat-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Chat-acknowledgements.plist"; sourceTree = "<group>"; };
 		EC8BD73B20831E4AA90665070D76981A /* RAMTransitionItemAnimations.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RAMTransitionItemAnimations.swift; path = RAMAnimatedTabBarController/Animations/TransitionAniamtions/RAMTransitionItemAnimations.swift; sourceTree = "<group>"; };
-		F0826FC088094C66E4487FF6DE7DF749 /* Pods-Chat-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Chat-dummy.m"; sourceTree = "<group>"; };
+		ED0B1DB9D55BBB24C284387F87450E7F /* Pods-Chat-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Chat-dummy.m"; sourceTree = "<group>"; };
 		F08442935F5F1296D0848F31A3BB7E57 /* M13CheckboxPathGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxPathGenerator.swift; path = Sources/Paths/M13CheckboxPathGenerator.swift; sourceTree = "<group>"; };
-		F4EE04A9F4D4CC5E45E770920AA03F3D /* Pods-Chat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Chat.debug.xcconfig"; sourceTree = "<group>"; };
-		FAC2A34AC9398C8A3801E1A99E7A0672 /* RAMAnimatedTabBarController-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RAMAnimatedTabBarController-prefix.pch"; sourceTree = "<group>"; };
+		F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JTMaterialSwitch.xcconfig; sourceTree = "<group>"; };
+		F448C5FF8991EC0E34601AEBDA96EB77 /* TKSwitcherCollection-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TKSwitcherCollection-umbrella.h"; sourceTree = "<group>"; };
+		FB6C2F738E57FFB870A43FA2BE257255 /* SwifterSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwifterSwift.xcconfig; sourceTree = "<group>"; };
 		FB88F608B67806D8163A391666302C7D /* DoubleExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DoubleExtensions.swift; path = Sources/Extensions/SwiftStdlib/DoubleExtensions.swift; sourceTree = "<group>"; };
-		FCD1012EAA1C3E06F90BB287CF31866B /* RAMAnimatedTabBarController.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RAMAnimatedTabBarController.xcconfig; sourceTree = "<group>"; };
 		FD2F0E4FFD3BAB439432707C4C9A8386 /* M13CheckboxCheckPathGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M13CheckboxCheckPathGenerator.swift; path = Sources/Paths/M13CheckboxCheckPathGenerator.swift; sourceTree = "<group>"; };
-		FF5D9AF1E5B91B8C55804847A7CB339E /* RAMAnimatedTabBarController-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RAMAnimatedTabBarController-dummy.m"; sourceTree = "<group>"; };
-		FF6D992B8A0C91F20288EF60F270832E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -369,25 +369,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02195A60B3E76C0145219EFEB15C3F60 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E16519FF24DCC33883DB42B4D662E808 /* JTMaterialSwitch.bundle */,
+				8F84DE75528B813A4A8A8D04EF4C9204 /* JTMaterialSwitch.framework */,
+				81334DB67E561FE80C5747256508D10D /* M13Checkbox.framework */,
+				1CD3394AF67DDCB9D79DEE8DE40627E7 /* Pods_Chat.framework */,
+				68B6DE4EB0D3802819BE3A5E2057BAC8 /* RAMAnimatedTabBarController.framework */,
+				55FDFF5691CB1DE6B51795B1FD0303B4 /* SwifterSwift.framework */,
+				2E661A4B4C291CBAF795CAA5B79C1238 /* TKSwitcherCollection.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		05EC1F1046D44A71501617502CD1BCB3 /* AppKit */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = AppKit;
-			sourceTree = "<group>";
-		};
-		09055F2D8D6591052FFB0B694A4A2B68 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				8F3E898D3B8759617E07D48EFA6C0989 /* Info.plist */,
-				2EDE36F9E2D7908A2F01995007429074 /* RAMAnimatedTabBarController.modulemap */,
-				FCD1012EAA1C3E06F90BB287CF31866B /* RAMAnimatedTabBarController.xcconfig */,
-				FF5D9AF1E5B91B8C55804847A7CB339E /* RAMAnimatedTabBarController-dummy.m */,
-				FAC2A34AC9398C8A3801E1A99E7A0672 /* RAMAnimatedTabBarController-prefix.pch */,
-				B43C80ACF890BBC32F53F2D1CAD31EF3 /* RAMAnimatedTabBarController-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/RAMAnimatedTabBarController";
 			sourceTree = "<group>";
 		};
 		0C110D87118E5A099832498F20753E70 /* Pods */ = {
@@ -402,20 +402,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		0DC1596DF9B003B0CE1737208D169F74 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				2ACD9E818C7F4AB9492ED2DF1346AB3B /* Info.plist */,
-				62527E93B6F4FFC38AF962DF0F135F2E /* SwifterSwift.modulemap */,
-				9914B9B7D2CB8ED67E5551508F1631CF /* SwifterSwift.xcconfig */,
-				69D81BB0FBCE826E81128211C99D290B /* SwifterSwift-dummy.m */,
-				8CE18642285A6B0B403B21A459922688 /* SwifterSwift-prefix.pch */,
-				474BF759080D2496DFD5DC7AFC60CB0A /* SwifterSwift-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/SwifterSwift";
-			sourceTree = "<group>";
-		};
 		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -424,18 +410,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		32CE17AB1F03F8C1DF9B15A1889B047D /* Support Files */ = {
+		39B37706A16286C155B788E6771BAE32 /* Pods-Chat */ = {
 			isa = PBXGroup;
 			children = (
-				3BA8D9BFDDE7A4B4BEB408B3149D78E8 /* Info.plist */,
-				35B0940759A19B9DA6934DACBCBC2145 /* M13Checkbox.modulemap */,
-				27B2BB35E9C7693260CFC0570944BB54 /* M13Checkbox.xcconfig */,
-				080BEA35C76C73DA5C77BC826271F07F /* M13Checkbox-dummy.m */,
-				9B7B1AA21460582D20737F70317C424A /* M13Checkbox-prefix.pch */,
-				C472306431E65DF94193A245BB33098C /* M13Checkbox-umbrella.h */,
+				B0521B331A9E2B9EBB86C5B445B1F8A0 /* Info.plist */,
+				489585382114F8D756A8FA9A5A94487D /* Pods-Chat.modulemap */,
+				78FAC3ED41DADAD3250B8B9E17BC3D6A /* Pods-Chat-acknowledgements.markdown */,
+				EBFD2C3585477A2D643B9460891FC8BE /* Pods-Chat-acknowledgements.plist */,
+				ED0B1DB9D55BBB24C284387F87450E7F /* Pods-Chat-dummy.m */,
+				056805D90E0989ABF11F7D053AB70492 /* Pods-Chat-frameworks.sh */,
+				58CE981816E5CAFC819FC75901D0C8D5 /* Pods-Chat-resources.sh */,
+				B291740C664BB03A7EED1894299662DD /* Pods-Chat-umbrella.h */,
+				C4DB40DF84C66E225C61348F7DB84D28 /* Pods-Chat.debug.xcconfig */,
+				6677F0E77DEE7545100CBB3871582D92 /* Pods-Chat.release.xcconfig */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/M13Checkbox";
+			name = "Pods-Chat";
+			path = "Target Support Files/Pods-Chat";
 			sourceTree = "<group>";
 		};
 		524552683E36E1BC62A257823D7692F4 /* TKSwitcherCollection */ = {
@@ -446,28 +436,52 @@
 				7AE1B870E30825949FDAC3E3D2B4B04D /* TKLiquidSwitch.swift */,
 				A05B3BB1B78C6B10EC3298B8A9786EFA /* TKSimpleSwitch.swift */,
 				D173DFD195C9A64DE28FBB8CDE7329C4 /* TKSmileSwitch.swift */,
-				8906DD922D1BCDDB251075A2ADD08F2B /* Support Files */,
+				6012D2BB73E968FB42649A9480126321 /* Support Files */,
 			);
 			name = TKSwitcherCollection;
 			path = TKSwitcherCollection;
 			sourceTree = "<group>";
 		};
-		72843B2DA57F584E76B458B1498ACB0B /* Pods-Chat */ = {
+		5C05FC5DE893346E9FBAC633F75485EE /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				7BA87E506D4C019EC5A109E82CACF0C1 /* Info.plist */,
-				5429D4C264806AC229775F0557E96630 /* Pods-Chat.modulemap */,
-				19BB9388E2D76CD73E834E1839237BA8 /* Pods-Chat-acknowledgements.markdown */,
-				36313FA0A323BB6755155B78378D76C8 /* Pods-Chat-acknowledgements.plist */,
-				F0826FC088094C66E4487FF6DE7DF749 /* Pods-Chat-dummy.m */,
-				C75A14792F2076CE93AC78008E4BE8ED /* Pods-Chat-frameworks.sh */,
-				CF967712E0AF3886BF5B44AD9BFD1AEA /* Pods-Chat-resources.sh */,
-				E5D60BB0BE9494B3B8E82BD8F0093964 /* Pods-Chat-umbrella.h */,
-				F4EE04A9F4D4CC5E45E770920AA03F3D /* Pods-Chat.debug.xcconfig */,
-				4A391CE8AC82FC2D8506307EFD77219D /* Pods-Chat.release.xcconfig */,
+				15EC94D14A538389313CCCCADC1B3A2C /* Info.plist */,
+				A7E982F33F7A98682F9B128DE74D1924 /* RAMAnimatedTabBarController.modulemap */,
+				346E444B27FB9B43A06B6116F591F895 /* RAMAnimatedTabBarController.xcconfig */,
+				B1FCAEA650E061AD4EFF3C66EA91F315 /* RAMAnimatedTabBarController-dummy.m */,
+				6ACD7C7EC01D4E6D1384F8E1E324F146 /* RAMAnimatedTabBarController-prefix.pch */,
+				3601E8C11D68B745EF1556B5008D85DA /* RAMAnimatedTabBarController-umbrella.h */,
 			);
-			name = "Pods-Chat";
-			path = "Target Support Files/Pods-Chat";
+			name = "Support Files";
+			path = "../Target Support Files/RAMAnimatedTabBarController";
+			sourceTree = "<group>";
+		};
+		6012D2BB73E968FB42649A9480126321 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				717F4D2C04149900A40714686AB4A172 /* Info.plist */,
+				85B6A1E12A46F641AD5A16C7E3EE36CE /* TKSwitcherCollection.modulemap */,
+				23BCBFF470819BD1FAD3FFA04EA97070 /* TKSwitcherCollection.xcconfig */,
+				160625792B7CA0CE4C35E6FFAB1B8518 /* TKSwitcherCollection-dummy.m */,
+				6B5FE66F3FAC70E33272D71EDC95374A /* TKSwitcherCollection-prefix.pch */,
+				F448C5FF8991EC0E34601AEBDA96EB77 /* TKSwitcherCollection-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/TKSwitcherCollection";
+			sourceTree = "<group>";
+		};
+		643D51871EEE27ADB72BC111C4B273FD /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1DB22E87D8B675A6A82768651A2308A6 /* Info.plist */,
+				8954D8842807AF75AF35D7F4EF8F754B /* M13Checkbox.modulemap */,
+				C2D86F3F22FDA5689767FF380004B196 /* M13Checkbox.xcconfig */,
+				1C67580EEF540C5C076E291C53F1EA23 /* M13Checkbox-dummy.m */,
+				B2B38BA26724AB04F93150177DFCA9FD /* M13Checkbox-prefix.pch */,
+				E5AF501D8BBB624F3855AFD0E1B77D74 /* M13Checkbox-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/M13Checkbox";
 			sourceTree = "<group>";
 		};
 		798CE11C4627D47154EF5A905A240858 /* Foundation */ = {
@@ -483,7 +497,7 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
 				0C110D87118E5A099832498F20753E70 /* Pods */,
-				F5E9F20DB0111A807A3CFC48B11F71AC /* Products */,
+				02195A60B3E76C0145219EFEB15C3F60 /* Products */,
 				9E19C63A569E8DFC2A8065160E92815C /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -502,33 +516,18 @@
 			name = SwiftStdlib;
 			sourceTree = "<group>";
 		};
-		881CA22C0B9B4621309F63F2D710DC6D /* Support Files */ = {
+		8AE32000DAB811B04FEE861C910A5978 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				AFFDD6F2EFE18965BF35EB9113522C81 /* Info.plist */,
-				EAE78040AF0F192F6DAF904774B3FA90 /* JTMaterialSwitch.modulemap */,
-				7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */,
-				C250FF9F7BB60EDF933BD482158CA702 /* JTMaterialSwitch-dummy.m */,
-				B887786A06B728A0061582E3592F9E97 /* JTMaterialSwitch-prefix.pch */,
-				D7C6B3F1658A105D8CCABCDBECA3F314 /* JTMaterialSwitch-umbrella.h */,
-				5313C2C0B143410BDBB392FB8496FAB9 /* ResourceBundle-JTMaterialSwitch-Info.plist */,
+				8C2B36D6594724109745958B77980D0D /* Info.plist */,
+				AFC85CC77E7234BFA0A8389A624209BB /* SwifterSwift.modulemap */,
+				FB6C2F738E57FFB870A43FA2BE257255 /* SwifterSwift.xcconfig */,
+				D442C11501AAD67504AC670B1E2F3DC1 /* SwifterSwift-dummy.m */,
+				C6206DBDD0BC1E2550C1D3D6D48F97C5 /* SwifterSwift-prefix.pch */,
+				1DAB07A1F5D4873A850F742C4D1ECDD7 /* SwifterSwift-umbrella.h */,
 			);
 			name = "Support Files";
-			path = "../Target Support Files/JTMaterialSwitch";
-			sourceTree = "<group>";
-		};
-		8906DD922D1BCDDB251075A2ADD08F2B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				FF6D992B8A0C91F20288EF60F270832E /* Info.plist */,
-				C08CBDBA11954A4DB020E6D2D4769584 /* TKSwitcherCollection.modulemap */,
-				DEEA54B5FCD1E8046D1D652E2DC6A842 /* TKSwitcherCollection.xcconfig */,
-				2D2C447D8F3105F6F42CC55ADDC3634E /* TKSwitcherCollection-dummy.m */,
-				BFD8094A44C065DE83A041A26C903786 /* TKSwitcherCollection-prefix.pch */,
-				A387E16E61DDC960D5381A3D8B5A6E86 /* TKSwitcherCollection-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/TKSwitcherCollection";
+			path = "../Target Support Files/SwifterSwift";
 			sourceTree = "<group>";
 		};
 		93FD095B5FC2A2BCC81B8E3CFC167E67 /* iOS */ = {
@@ -544,7 +543,7 @@
 		9E19C63A569E8DFC2A8065160E92815C /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				72843B2DA57F584E76B458B1498ACB0B /* Pods-Chat */,
+				39B37706A16286C155B788E6771BAE32 /* Pods-Chat */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -560,10 +559,25 @@
 				7BD56F7672838BF5B3AAEEDA48B1994C /* RAMItemAnimationProtocol.swift */,
 				AC2B682A8C8D43516AEDB497DC5626E3 /* RAMRotationAnimation.swift */,
 				EC8BD73B20831E4AA90665070D76981A /* RAMTransitionItemAnimations.swift */,
-				09055F2D8D6591052FFB0B694A4A2B68 /* Support Files */,
+				5C05FC5DE893346E9FBAC633F75485EE /* Support Files */,
 			);
 			name = RAMAnimatedTabBarController;
 			path = RAMAnimatedTabBarController;
+			sourceTree = "<group>";
+		};
+		AA47C9AB84AA279DF029599D01FEFCB4 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				189A3138BEB66C49B7C9FEEC566AA337 /* Info.plist */,
+				2284B8181F60DFFE31CCF91D5018EDC9 /* JTMaterialSwitch.modulemap */,
+				F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */,
+				D95D41FA0C85B9CF4FC8D2BBDD39C01C /* JTMaterialSwitch-dummy.m */,
+				B09ABEE0DF6404C5C78B18392296C48F /* JTMaterialSwitch-prefix.pch */,
+				1002106F7CDBB163100694B3D2CFBD12 /* JTMaterialSwitch-umbrella.h */,
+				BBB5E058E9F0DC23155CD2AD4C496326 /* ResourceBundle-JTMaterialSwitch-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/JTMaterialSwitch";
 			sourceTree = "<group>";
 		};
 		AA6BEE44533D956FF078448A0399C14B /* UIKit */ = {
@@ -573,26 +587,12 @@
 			name = UIKit;
 			sourceTree = "<group>";
 		};
-		F5E9F20DB0111A807A3CFC48B11F71AC /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				DF2A1C7698B565EE9B515779D7BB44DB /* JTMaterialSwitch.bundle */,
-				0BC319DB2A5A1C743591990FF97E4558 /* JTMaterialSwitch.framework */,
-				B7499831DD9E4D80F47CB01383313364 /* M13Checkbox.framework */,
-				01D2829F039B5448119E45E65FFEF379 /* Pods_Chat.framework */,
-				DD8AD8C47F5ED93291540399B78C3F14 /* RAMAnimatedTabBarController.framework */,
-				0FB6112C1E606A02AAF0A10142CAC277 /* SwifterSwift.framework */,
-				DF42B44711017413D3F1C0778E3F995A /* TKSwitcherCollection.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		FA270317B67AC20458E95D99892A9FA5 /* JTMaterialSwitch */ = {
 			isa = PBXGroup;
 			children = (
 				CDCE11134754D464965CAE1D9A8D9F59 /* JTMaterialSwitch.h */,
 				4EA971972B2F49A15549F23179495974 /* JTMaterialSwitch.m */,
-				881CA22C0B9B4621309F63F2D710DC6D /* Support Files */,
+				AA47C9AB84AA279DF029599D01FEFCB4 /* Support Files */,
 			);
 			name = JTMaterialSwitch;
 			path = JTMaterialSwitch;
@@ -620,7 +620,7 @@
 				E2ACF9CB8A3A3D3FE49DAC64826D539A /* M13CheckboxRadioPathGenerator.swift */,
 				84BD36BC5AD45B26BA3B540D1BE4CE19 /* M13CheckboxSpiralController.swift */,
 				28948C89713E35F30263524065806115 /* M13CheckboxStrokeController.swift */,
-				32CE17AB1F03F8C1DF9B15A1889B047D /* Support Files */,
+				643D51871EEE27ADB72BC111C4B273FD /* Support Files */,
 			);
 			name = M13Checkbox;
 			path = M13Checkbox;
@@ -695,7 +695,7 @@
 				84CF1F32570F0FC43D912175C45A317D /* CoreGraphics */,
 				FC146B947AB7EFBA039A6AFFCCB9A696 /* CoreLocation */,
 				798CE11C4627D47154EF5A905A240858 /* Foundation */,
-				0DC1596DF9B003B0CE1737208D169F74 /* Support Files */,
+				8AE32000DAB811B04FEE861C910A5978 /* Support Files */,
 				8762E5B0549C2A572D85779AA8BC80B3 /* SwiftStdlib */,
 				AA6BEE44533D956FF078448A0399C14B /* UIKit */,
 			);
@@ -772,7 +772,7 @@
 			);
 			name = "JTMaterialSwitch-JTMaterialSwitch";
 			productName = "JTMaterialSwitch-JTMaterialSwitch";
-			productReference = DF2A1C7698B565EE9B515779D7BB44DB /* JTMaterialSwitch.bundle */;
+			productReference = E16519FF24DCC33883DB42B4D662E808 /* JTMaterialSwitch.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		35F619C43407A32EB01195340F1D5EAF /* SwifterSwift */ = {
@@ -789,7 +789,7 @@
 			);
 			name = SwifterSwift;
 			productName = SwifterSwift;
-			productReference = 0FB6112C1E606A02AAF0A10142CAC277 /* SwifterSwift.framework */;
+			productReference = 55FDFF5691CB1DE6B51795B1FD0303B4 /* SwifterSwift.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		688743DD2DB29F3AD023C89539DC3341 /* JTMaterialSwitch */ = {
@@ -808,7 +808,7 @@
 			);
 			name = JTMaterialSwitch;
 			productName = JTMaterialSwitch;
-			productReference = 0BC319DB2A5A1C743591990FF97E4558 /* JTMaterialSwitch.framework */;
+			productReference = 8F84DE75528B813A4A8A8D04EF4C9204 /* JTMaterialSwitch.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		7AB4E4608F0BCA465BF8B81EA1F63039 /* RAMAnimatedTabBarController */ = {
@@ -825,7 +825,7 @@
 			);
 			name = RAMAnimatedTabBarController;
 			productName = RAMAnimatedTabBarController;
-			productReference = DD8AD8C47F5ED93291540399B78C3F14 /* RAMAnimatedTabBarController.framework */;
+			productReference = 68B6DE4EB0D3802819BE3A5E2057BAC8 /* RAMAnimatedTabBarController.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		8CD9FC035D83AD9BA719108E6A9A694F /* M13Checkbox */ = {
@@ -842,7 +842,7 @@
 			);
 			name = M13Checkbox;
 			productName = M13Checkbox;
-			productReference = B7499831DD9E4D80F47CB01383313364 /* M13Checkbox.framework */;
+			productReference = 81334DB67E561FE80C5747256508D10D /* M13Checkbox.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DCEFD44841291CE2A67C410AEFAD20BC /* TKSwitcherCollection */ = {
@@ -859,7 +859,7 @@
 			);
 			name = TKSwitcherCollection;
 			productName = TKSwitcherCollection;
-			productReference = DF42B44711017413D3F1C0778E3F995A /* TKSwitcherCollection.framework */;
+			productReference = 2E661A4B4C291CBAF795CAA5B79C1238 /* TKSwitcherCollection.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		E0533F915D514966DB131ED0FB7F4D01 /* Pods-Chat */ = {
@@ -881,7 +881,7 @@
 			);
 			name = "Pods-Chat";
 			productName = "Pods-Chat";
-			productReference = 01D2829F039B5448119E45E65FFEF379 /* Pods_Chat.framework */;
+			productReference = 1CD3394AF67DDCB9D79DEE8DE40627E7 /* Pods_Chat.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -890,8 +890,8 @@
 		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -901,7 +901,7 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = F5E9F20DB0111A807A3CFC48B11F71AC /* Products */;
+			productRefGroup = 02195A60B3E76C0145219EFEB15C3F60 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -928,7 +928,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD5A78837E16733DFD0C2ECD66B46F3D /* JTMaterialSwitch.bundle in Resources */,
+				4B00659A0A5ADFD61FCDA9F38187123A /* JTMaterialSwitch.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1122,7 +1122,7 @@
 /* Begin XCBuildConfiguration section */
 		0060AE9839B7DA9EA583B37623E22D8B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9914B9B7D2CB8ED67E5551508F1631CF /* SwifterSwift.xcconfig */;
+			baseConfigurationReference = FB6C2F738E57FFB870A43FA2BE257255 /* SwifterSwift.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1154,7 +1154,7 @@
 		};
 		0062A132EDF8E3ABD54A223C9B4FC866 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCD1012EAA1C3E06F90BB287CF31866B /* RAMAnimatedTabBarController.xcconfig */;
+			baseConfigurationReference = 346E444B27FB9B43A06B6116F591F895 /* RAMAnimatedTabBarController.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1183,43 +1183,9 @@
 			};
 			name = Debug;
 		};
-		0825E6818636B7C6B01157E3FB810598 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F4EE04A9F4D4CC5E45E770920AA03F3D /* Pods-Chat.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Chat/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Chat/Pods-Chat.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_Chat;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		196537F44CB3341FB8025F221756EF21 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DEEA54B5FCD1E8046D1D652E2DC6A842 /* TKSwitcherCollection.xcconfig */;
+			baseConfigurationReference = 23BCBFF470819BD1FAD3FFA04EA97070 /* TKSwitcherCollection.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1251,7 +1217,7 @@
 		};
 		1F741F2DA0BA1CAD665B3081E1A3697A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 27B2BB35E9C7693260CFC0570944BB54 /* M13Checkbox.xcconfig */;
+			baseConfigurationReference = C2D86F3F22FDA5689767FF380004B196 /* M13Checkbox.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1280,38 +1246,7 @@
 			};
 			name = Debug;
 		};
-		38F42CF2BCD472C12EB8FFA566864A9B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9914B9B7D2CB8ED67E5551508F1631CF /* SwifterSwift.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SwifterSwift/SwifterSwift-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SwifterSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SwifterSwift/SwifterSwift.modulemap";
-				PRODUCT_NAME = SwifterSwift;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		39C5BC78A31CDE101068C530CAC7FA0F /* Debug */ = {
+		323A24856F1A4871A780301AF5C02A2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1321,10 +1256,12 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -1332,6 +1269,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -1371,9 +1309,110 @@
 			};
 			name = Debug;
 		};
+		38F42CF2BCD472C12EB8FFA566864A9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FB6C2F738E57FFB870A43FA2BE257255 /* SwifterSwift.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwifterSwift/SwifterSwift-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwifterSwift/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwifterSwift/SwifterSwift.modulemap";
+				PRODUCT_NAME = SwifterSwift;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		42C5DE6296B70A641F47F328873E9FD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4DB40DF84C66E225C61348F7DB84D28 /* Pods-Chat.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Chat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Chat/Pods-Chat.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_Chat;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4EBDB8802D2D8C8E863AAB1249722B8E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6677F0E77DEE7545100CBB3871582D92 /* Pods-Chat.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Chat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Chat/Pods-Chat.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_Chat;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		536B6E5C57CF56FE6910E91C75F79EF8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DEEA54B5FCD1E8046D1D652E2DC6A842 /* TKSwitcherCollection.xcconfig */;
+			baseConfigurationReference = 23BCBFF470819BD1FAD3FFA04EA97070 /* TKSwitcherCollection.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1404,7 +1443,7 @@
 		};
 		833E1619EBE826B35CDF2D96E0A0CAE3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */;
+			baseConfigurationReference = F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/JTMaterialSwitch";
@@ -1420,7 +1459,7 @@
 		};
 		87CF97E5573B760377E3C42B36A23F37 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */;
+			baseConfigurationReference = F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1449,7 +1488,37 @@
 			};
 			name = Release;
 		};
-		89C8BB24E37B25BAEEB8FBA01EE05DAF /* Release */ = {
+		A397FE3D2B3EA5A998BD653F5DCCE052 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JTMaterialSwitch/JTMaterialSwitch-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JTMaterialSwitch/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JTMaterialSwitch/JTMaterialSwitch.modulemap";
+				PRODUCT_NAME = JTMaterialSwitch;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CA33F186435244FD0FD5B7325332656C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1459,10 +1528,12 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -1470,6 +1541,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -1504,73 +1576,9 @@
 			};
 			name = Release;
 		};
-		9CF074835A4E5BE053F2CAD388F76AE2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A391CE8AC82FC2D8506307EFD77219D /* Pods-Chat.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Chat/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Chat/Pods-Chat.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_Chat;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A397FE3D2B3EA5A998BD653F5DCCE052 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JTMaterialSwitch/JTMaterialSwitch-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JTMaterialSwitch/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JTMaterialSwitch/JTMaterialSwitch.modulemap";
-				PRODUCT_NAME = JTMaterialSwitch;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		D8FBA7EB5AEAF86F2FD77B59A387624C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C260E05EBDE3187F741BB59210977AF /* JTMaterialSwitch.xcconfig */;
+			baseConfigurationReference = F14142F24C83E9AF04EE435A92D55046 /* JTMaterialSwitch.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/JTMaterialSwitch";
@@ -1586,7 +1594,7 @@
 		};
 		FCC6A3580B322329F26373CEBA554105 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCD1012EAA1C3E06F90BB287CF31866B /* RAMAnimatedTabBarController.xcconfig */;
+			baseConfigurationReference = 346E444B27FB9B43A06B6116F591F895 /* RAMAnimatedTabBarController.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1618,7 +1626,7 @@
 		};
 		FF4E6B4139DAB85807B7F3F7081E7A7C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 27B2BB35E9C7693260CFC0570944BB54 /* M13Checkbox.xcconfig */;
+			baseConfigurationReference = C2D86F3F22FDA5689767FF380004B196 /* M13Checkbox.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1663,8 +1671,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				39C5BC78A31CDE101068C530CAC7FA0F /* Debug */,
-				89C8BB24E37B25BAEEB8FBA01EE05DAF /* Release */,
+				323A24856F1A4871A780301AF5C02A2A /* Debug */,
+				CA33F186435244FD0FD5B7325332656C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1708,8 +1716,8 @@
 		B6753C155ACACDBD547002B1A2B07B49 /* Build configuration list for PBXNativeTarget "Pods-Chat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0825E6818636B7C6B01157E3FB810598 /* Debug */,
-				9CF074835A4E5BE053F2CAD388F76AE2 /* Release */,
+				42C5DE6296B70A641F47F328873E9FD0 /* Debug */,
+				4EBDB8802D2D8C8E863AAB1249722B8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:aa.swift">
+   </FileRef>
+   <FileRef
       location = "group:Chat.xcodeproj">
    </FileRef>
    <FileRef
