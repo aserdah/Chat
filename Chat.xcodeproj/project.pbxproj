@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7534A1CDB30D26098013C430 /* Pods_Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 99EA33FF871F6FDC43C12BFF /* Pods_Chat.framework */; };
 		E23E22C21FF822D300C1E952 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E23E22C11FF822D300C1E952 /* SettingViewController.swift */; };
+		E2400D2420839D2800C867C8 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2400D2320839D2800C867C8 /* SignUpViewController.swift */; };
 		E24AF0B31FF381C4004CDAB8 /* FriendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24AF0B21FF381C4004CDAB8 /* FriendViewController.swift */; };
 		E24AF0B51FF38533004CDAB8 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24AF0B41FF38533004CDAB8 /* Artwork.swift */; };
 		E24AF0B81FF38776004CDAB8 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24AF0B71FF38776004CDAB8 /* ViewControllerExtension.swift */; };
@@ -17,11 +18,14 @@
 		E251B2741FF2EA8C0030880E /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E251B2731FF2EA8C0030880E /* ChatViewController.swift */; };
 		E251B2761FF2F3130030880E /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = E251B2751FF2F3130030880E /* Podfile */; };
 		E251B2781FF2F4F50030880E /* Chat2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E251B2771FF2F4F50030880E /* Chat2ViewController.swift */; };
+		E278750220847A4B0053490A /* RestPassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E278750120847A4B0053490A /* RestPassViewController.swift */; };
 		E27EC4EC1FF176CA0044B4ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27EC4EB1FF176CA0044B4ED /* AppDelegate.swift */; };
-		E27EC4EE1FF176CA0044B4ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27EC4ED1FF176CA0044B4ED /* ViewController.swift */; };
+		E27EC4EE1FF176CA0044B4ED /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27EC4ED1FF176CA0044B4ED /* SignInViewController.swift */; };
 		E27EC4F11FF176CA0044B4ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E27EC4EF1FF176CA0044B4ED /* Main.storyboard */; };
 		E27EC4F31FF176CA0044B4ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E27EC4F21FF176CA0044B4ED /* Assets.xcassets */; };
 		E27EC4F61FF176CA0044B4ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E27EC4F41FF176CA0044B4ED /* LaunchScreen.storyboard */; };
+		E2972B7720867FD300C3CB55 /* MeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2972B7620867FD300C3CB55 /* MeViewController.swift */; };
+		E2D33A1D20828C2E00D64FF7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E2D33A1C20828C2D00D64FF7 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +33,7 @@
 		99EA33FF871F6FDC43C12BFF /* Pods_Chat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D42CEE3994543208C60CC9E /* Pods-Chat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chat.release.xcconfig"; path = "Pods/Target Support Files/Pods-Chat/Pods-Chat.release.xcconfig"; sourceTree = "<group>"; };
 		E23E22C11FF822D300C1E952 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		E2400D2320839D2800C867C8 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		E24AF0B21FF381C4004CDAB8 /* FriendViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendViewController.swift; sourceTree = "<group>"; };
 		E24AF0B41FF38533004CDAB8 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		E24AF0B61FF386C8004CDAB8 /* PublicArt.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PublicArt.json; sourceTree = "<group>"; };
@@ -38,13 +43,16 @@
 		E251B2731FF2EA8C0030880E /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		E251B2751FF2F3130030880E /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E251B2771FF2F4F50030880E /* Chat2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat2ViewController.swift; sourceTree = "<group>"; };
+		E278750120847A4B0053490A /* RestPassViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestPassViewController.swift; sourceTree = "<group>"; };
 		E27EC4E81FF176CA0044B4ED /* Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E27EC4EB1FF176CA0044B4ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E27EC4ED1FF176CA0044B4ED /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E27EC4ED1FF176CA0044B4ED /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		E27EC4F01FF176CA0044B4ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E27EC4F21FF176CA0044B4ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E27EC4F51FF176CA0044B4ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E27EC4F71FF176CA0044B4ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2972B7620867FD300C3CB55 /* MeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeViewController.swift; sourceTree = "<group>"; };
+		E2D33A1C20828C2D00D64FF7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,11 +107,12 @@
 			isa = PBXGroup;
 			children = (
 				E27EC4EB1FF176CA0044B4ED /* AppDelegate.swift */,
-				E27EC4ED1FF176CA0044B4ED /* ViewController.swift */,
+				E27EC4ED1FF176CA0044B4ED /* SignInViewController.swift */,
 				E27EC4EF1FF176CA0044B4ED /* Main.storyboard */,
 				E27EC4F21FF176CA0044B4ED /* Assets.xcassets */,
 				E27EC4F41FF176CA0044B4ED /* LaunchScreen.storyboard */,
 				E27EC4F71FF176CA0044B4ED /* Info.plist */,
+				E2D33A1C20828C2D00D64FF7 /* GoogleService-Info.plist */,
 				E251B2731FF2EA8C0030880E /* ChatViewController.swift */,
 				E251B2771FF2F4F50030880E /* Chat2ViewController.swift */,
 				E24AF0B21FF381C4004CDAB8 /* FriendViewController.swift */,
@@ -113,6 +122,9 @@
 				E24AF0BD1FF3B510004CDAB8 /* ImageExtension.swift */,
 				E24AF0B91FF395F3004CDAB8 /* ArtworkViews.swift */,
 				E23E22C11FF822D300C1E952 /* SettingViewController.swift */,
+				E2400D2320839D2800C867C8 /* SignUpViewController.swift */,
+				E278750120847A4B0053490A /* RestPassViewController.swift */,
+				E2972B7620867FD300C3CB55 /* MeViewController.swift */,
 			);
 			path = Chat;
 			sourceTree = "<group>";
@@ -181,6 +193,7 @@
 			files = (
 				E27EC4F61FF176CA0044B4ED /* LaunchScreen.storyboard in Resources */,
 				E27EC4F31FF176CA0044B4ED /* Assets.xcassets in Resources */,
+				E2D33A1D20828C2E00D64FF7 /* GoogleService-Info.plist in Resources */,
 				E251B2761FF2F3130030880E /* Podfile in Resources */,
 				E27EC4F11FF176CA0044B4ED /* Main.storyboard in Resources */,
 			);
@@ -196,19 +209,29 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Chat/Pods-Chat-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMOAuth2/GTMOAuth2.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
 				"${BUILT_PRODUCTS_DIR}/JTMaterialSwitch/JTMaterialSwitch.framework",
 				"${BUILT_PRODUCTS_DIR}/M13Checkbox/M13Checkbox.framework",
 				"${BUILT_PRODUCTS_DIR}/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework",
 				"${BUILT_PRODUCTS_DIR}/SwifterSwift/SwifterSwift.framework",
 				"${BUILT_PRODUCTS_DIR}/TKSwitcherCollection/TKSwitcherCollection.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMOAuth2.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JTMaterialSwitch.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/M13Checkbox.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RAMAnimatedTabBarController.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwifterSwift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TKSwitcherCollection.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -221,9 +244,12 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Chat/Pods-Chat-resources.sh",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -255,16 +281,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E27EC4EE1FF176CA0044B4ED /* ViewController.swift in Sources */,
+				E2972B7720867FD300C3CB55 /* MeViewController.swift in Sources */,
+				E27EC4EE1FF176CA0044B4ED /* SignInViewController.swift in Sources */,
 				E251B2781FF2F4F50030880E /* Chat2ViewController.swift in Sources */,
 				E24AF0B81FF38776004CDAB8 /* ViewControllerExtension.swift in Sources */,
 				E251B2741FF2EA8C0030880E /* ChatViewController.swift in Sources */,
 				E27EC4EC1FF176CA0044B4ED /* AppDelegate.swift in Sources */,
 				E23E22C21FF822D300C1E952 /* SettingViewController.swift in Sources */,
+				E2400D2420839D2800C867C8 /* SignUpViewController.swift in Sources */,
 				E24AF0BA1FF395F3004CDAB8 /* ArtworkViews.swift in Sources */,
 				E24AF0B51FF38533004CDAB8 /* Artwork.swift in Sources */,
 				E24AF0BE1FF3B510004CDAB8 /* ImageExtension.swift in Sources */,
 				E24AF0B31FF381C4004CDAB8 /* FriendViewController.swift in Sources */,
+				E278750220847A4B0053490A /* RestPassViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
